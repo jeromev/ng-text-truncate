@@ -1,0 +1,10 @@
+{
+  "name": "ng-text-truncate",
+  "version": "0.1.0",
+  "main": "ng-text-truncate.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*"
+  ]
+}
